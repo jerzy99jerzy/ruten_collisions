@@ -1,0 +1,4 @@
+{
+	TCanvas *can1 = new TCanvas("can1", "can1", 550, 440); 	
+	TH1F *h1 = new TH1F ("h1", "histogram", 100, -4, 4);
+}
